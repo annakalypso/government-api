@@ -16,7 +16,7 @@
      <input type="text" placeholder="Year for 1st Crime" id="Year 1" onfocus="this.placeholder = ''" name="year1">
   </div>
   <div class="select-wrap">    
-    <input type="text" placeholder="Year fro 2nd Crime" id="Year 2" onfocus="this.placeholder = ''" name="year2">    
+    <input type="text" placeholder="Year for 2nd Crime" id="Year 2" onfocus="this.placeholder = ''" name="year2">    
   </div>
   <button type="submit">
     <i class="fa fa-search"></i> Search
